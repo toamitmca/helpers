@@ -16,7 +16,6 @@
   ],
   "require": {
     "ext-curl": "*",
-    "tandf/ecommerce": "dev-master",
     "monolog/monolog": "*",
     "danielstjules/stringy": "1.10.0"
   },
